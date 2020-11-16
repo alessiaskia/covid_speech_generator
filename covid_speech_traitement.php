@@ -50,7 +50,7 @@
                 echo "<p>Il est évident qu’il y aura un avant et un après Covid-19,<br />que ce soit dans la manière d’envisager notre rapport aux autres ou que ce soit dans le fonctionnement de notre société, comme le fait que plus personne ne se fera la bise pour peur de se choper quelque chose, on continuera à tout acheter sur Amazon contribuant à l'exploitation de travailleurs sans droits. Ou au moins, ceci est ce que je me souhaite.</p>";
                 break;
             case '3':
-                echo "<p>Nous devons plus que jamais être soudés dans cette épreuve, et c’est ensemble que,j’en suis persuadé, nous la surmonterons. Sinon, vous n'avez qu'à proposer des manifs que je ne vais pas autoriser.</p>";
+                echo "<p>Nous devons plus que jamais être soudés dans cette épreuve, et c’est ensemble que, j’en suis persuadé, nous la surmonterons. Sinon, vous n'avez qu'à proposer des manifs que je ne vais pas autoriser.</p>";
                 break;
         }
         echo "<p><em>" . $leaderChoisi . "</em></p>";
